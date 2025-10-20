@@ -60,7 +60,9 @@ Java / Spring Boot / JPA / Elasticsearch를 중심으로 웹 서비스를 개발
 ## 🧾 대표 프로젝트
 | 프로젝트 | 설명 | 링크 |
 |-----------|------|------|
-| 🍳 **Lumeat** | 개인화 요리 SNS, Spring Boot + Elasticsearch | [GitHub Repo](https://github.com/yourusername/Lumeat) |
+| 🍳 **Lumeat** | 개인화 요리 SNS, Spring Boot + Elasticsearch | [GitHub Repo](https://github.com/mapadubumaenia/Lumeat) |
+| 🧩 **RecipeCode** | Spring MVC 디자인 패턴 기반의 레시피 공유 웹서비스 (CRUD 중심의 중간 프로젝트) | Spring MVC · MyBatis · JSP · Oracle | [GitHub Repo](https://github.com/mapadubumaenia/RecipeCode) |
+
 
 
 ---
