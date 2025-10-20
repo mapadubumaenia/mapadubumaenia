@@ -53,7 +53,7 @@ Java / Spring Boot / JPA / Elasticsearch를 중심으로 웹 서비스를 개발
 
 💼 **Notion** https://www.notion.so/MAFA-s-TechNote-a953853678d248f983431409e3b8c349
 
-🌐 [Portfolio (GitHub Pages)](https://yourusername.github.io)
+🌐 [**Portfolio**] https://drive.google.com/file/d/1KCbj8vosNRvl7BujqsiBmo_bmJvRpbIK/view?usp=sharing
 
 ---
 
