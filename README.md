@@ -14,11 +14,37 @@ Java / Spring Boot / JPA / Elasticsearch를 중심으로 웹 서비스를 개발
 ---
 
 ## 🛠 Tech Stack
-**Backend:** Java · Spring Boot · JPA · QueryDSL · JWT  
-**Database:** Oracle · MySQL · Elasticsearch  
-**ETL & Data:** Logstash · Python  
-**Frontend:** JSP · HTML/CSS/JS(jQuery)  
-**Infra & Tools:** AWS EC2/RDS · GitHub · Notion · Figma
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white)
+
+**Database**  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
+
+**ETL & Data**  
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+**Frontend**  
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+
+**Infra & Tools**  
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+
 
 ---
 
