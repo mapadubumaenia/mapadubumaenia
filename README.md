@@ -50,7 +50,9 @@ Java / Spring Boot / JPA / Elasticsearch를 중심으로 웹 서비스를 개발
 
 ## 📫 Contact
 📧 **Email:** 1000seop@gmail.com
+
 💼 **Notion** https://www.notion.so/MAFA-s-TechNote-a953853678d248f983431409e3b8c349
+
 🌐 [Portfolio (GitHub Pages)](https://yourusername.github.io)
 
 ---
